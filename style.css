@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(download.jpg) ;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    font-style: italic;
+    color: green;
+
+}
+h2{
+    text-align: center;
+    line-height: -65%;
+    margin-top: 20px;
+    font-size: 40px;
+    color: red;
+}
+
+button{
+    border: none;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 55px;
+    margin-left: 330px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+#increment-btn{
+    background: darkred;
+}
+
+#save-btn{
+    background: green;
+}
+
+p{
+ font-size: 40px;
+ font-weight: bold;
+ color: palegreen;
+ text-decoration:none;
+ text-align: center;
+ margin-top: 20px;
+}
+#total-btn{
+    background: blue;
+}
